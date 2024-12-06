@@ -1,16 +1,12 @@
-# tp_navigation
+# Atelier 5 : Navigation
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Objectif :
+L'objectif principal de cet atelier est de maîtriser la navigation dans une
+application Flutter. L'atelier couvre différents aspects de la navigation, tels que :
+<ul>
+  <li><code>Navigation simple</code> avec Navigator.push et Navigator.pop .</li>
+  <li><code>Animation des transitions</code> entre les pages (animations de fondu et deglissement).</li>
+  <li><code>Routage (routes nommées)</code> et gestion des routes via le paramètre routes de MaterialApp et avec onGenerateRoute pour plus de flexibilité.</li>
+  <li>Utilisation du <code>Drawer (Menu latéral)</code> pour naviguer entre les pages.</li>
+  <li>Mise en place d'une <code>NavigationBar (barre de navigation inférieure)</code> pour changer de page en utilisant des onglets.</li>
+</ul>
